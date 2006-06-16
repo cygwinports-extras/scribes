@@ -1,0 +1,7 @@
+inherit distutils
+
+DESCRIPTION="Simple GNOME text editor"
+HOMEPAGE="http://scribes.sourceforge.net/"
+SRC_URI="http://openusability.org/download.php/93/${P}.tar.gz"
+
+USE_MANAGED_MOUNT=1
